@@ -1,0 +1,1 @@
+{"uuid":"672c5f77-8c2c-48bf-9c42-93ed9274c7b2","name":"Speer_Task_WebScraping","children":["a01f04f3-2f6b-403a-888b-010120796e67"],"befores":[{"name":"Setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1691002597568,"stop":1691002602000}],"afters":[],"start":1691002597541,"stop":1691002602839}
